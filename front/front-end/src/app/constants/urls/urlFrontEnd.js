@@ -1,0 +1,10 @@
+export const URL_HOME = '/';
+export const URL_LOGIN = '/login';
+export const URL_SIGNIN = '/signin';
+export const URL_LIST = '/simple-list';
+export const URL_PROFILE = '/profile/:uuid';
+export const URL_EDITPROFILE = '/editprofile/:uuid'; 
+export const URL_CREATEPROJECT = '/project/create'; 
+export const URL_PROJETVIEW = "/project/";
+export const URL_PROJECT_UPDATE = "/project/update/";
+export const URL_PROFILE2 = '/profile/';
